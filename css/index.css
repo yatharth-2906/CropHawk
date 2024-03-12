@@ -517,6 +517,10 @@ input[type='text'], input[type='email'], textarea, input[type='password']{
     line-height: 1.4em;
 }
 
+.fas{
+    background-color: transparent;
+}
+
 
 /* small tablet styles */
 @media screen and (min-width: 620px){
